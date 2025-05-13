@@ -1,8 +1,7 @@
-// Online C compiler to run C program online
+
 #include <stdio.h>
 int y, p, r, output;
 int main() {
-    // Write C code here
     printf("enter the year \n");
     scanf ("%d", &y);
     printf("enter the amount \n");
